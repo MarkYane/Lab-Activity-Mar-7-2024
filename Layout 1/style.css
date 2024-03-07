@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    font-size: 1.3em;
+    justify-content: center;
+}
+
+header{
+    border: 2px solid black;
+    margin-bottom: 5px;
+    height:100px;
+}
+
+body > *{
+    height:100px;
+    border: 2px solid black;
+}
+
+nav{
+    margin-top: 8px;
+    margin-bottom: 13px;
+}
+
+main{
+    height: 580px;
+}
+
+footer{
+    margin-top: 13px;
+    height:100px;
+    border: 2px solid black;
+}
