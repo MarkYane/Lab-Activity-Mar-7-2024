@@ -1,0 +1,36 @@
+*{
+  font-size: 1.3em;
+  text-align: center;
+}
+
+header{
+  font-size: 1.5em !important;
+  border: 1px solid black;
+}
+
+nav{
+  border: 1px solid black;
+  margin-top: 5px;
+}
+.parent{
+  display:flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height:80vh;
+}
+.side{
+  border: 1px solid black;
+  width:28%;
+}
+
+#main{
+  border: 1px solid black;
+  width:43%;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+footer{
+  font-size: 1.5em !important;
+  border: 1px solid black;
+}
